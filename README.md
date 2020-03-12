@@ -1,12 +1,12 @@
-#Angular-Iconic 5 News App
+# Angular-Iconic 5 News App
 
-##Installation
+## Installation
 
 Fist need to add global dependency in node npm install -g ionic
 
 In the path/newsapp>npm install
 
-##Run application
+## Run application
 
 path/newsapp> Ionic server
 
